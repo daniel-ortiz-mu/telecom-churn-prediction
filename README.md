@@ -87,7 +87,7 @@ This model can help companies:
 ---
 ## 📊 Confusion Matrix
 
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](Confusion_Matrix.png)
 
 ---
 
