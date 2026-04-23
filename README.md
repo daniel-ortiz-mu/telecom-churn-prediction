@@ -90,10 +90,17 @@ This model can help companies:
 ![Confusion Matrix](confusion_matrix.png)
 
 ---
+## 📉 Insights
+
+- The model struggles to correctly identify churned customers (class 1)
+- There is a high number of false positives, meaning many non-churn customers are predicted as churn
+- This suggests the need for better feature engineering or more advanced models
+
+---
 
 ## 📁 Project Structure
 
-* `BankChurn.ipynb` → Main analysis and model
+* `churn_prediction.ipynb` → Main analysis and model
 * Dataset file
 * README.md
 
