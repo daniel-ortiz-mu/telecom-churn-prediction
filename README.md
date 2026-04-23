@@ -85,6 +85,11 @@ This model can help companies:
 * Feature engineering
 
 ---
+## 📊 Confusion Matrix
+
+![Confusion Matrix](confusion_matrix.png)
+
+---
 
 ## 📁 Project Structure
 
